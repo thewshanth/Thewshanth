@@ -49,5 +49,5 @@ Verified network performance using diagnostic tools and improved connectivity th
 
 
 📲 Connect with me: 
-
-LinkedIn: Check out my Profile in LinkedIn
+  
+LinkedIn: [Check out my Profile in LinkedIn](https://www.linkedin.com/in/thewshanth-sivagnanam-42719b175/)
